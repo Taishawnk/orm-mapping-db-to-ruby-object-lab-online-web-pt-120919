@@ -112,5 +112,3 @@ def self.all_students_in_grade_X(grade)
 
     DB[:conn].execute(sql)
   end
-you s
-
